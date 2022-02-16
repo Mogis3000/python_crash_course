@@ -1,5 +1,5 @@
 # This is the first code that I'm using lists!
-# Blake Barrow / 10 June 2021
+# Mogis / 10 June 2021
 
 motorcycles = ['bmw', 'suzuki', 'kawasaki']
 

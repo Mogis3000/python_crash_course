@@ -1,5 +1,5 @@
 # Python Crash Course pg 63 - Chapter 4: Copying a list
-# Blake Barrow 17 June 2021
+# Mogis 17 June 2021
 
 my_foods = ['pizza', 'falafel', 'carrot cake']
 

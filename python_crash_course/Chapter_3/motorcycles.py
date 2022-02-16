@@ -1,5 +1,5 @@
 # This code is to teach how to edit items in a list
-# Blake Barrow / 10 June 2021
+# Mogis / 10 June 2021
 
 
 #---------------------------------------------------------------------------

@@ -1,5 +1,5 @@
-first_name = "bLaKe"
-last_name = "bArRoW"
+first_name = "mOgIs"
+last_name = "kNoWs"
 
 full_name = f"{first_name} {last_name}"
 

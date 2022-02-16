@@ -1,5 +1,5 @@
 # This code is for Python Crash Course page 46 - Lists
-# Blake Barrow / 15 June 2021
+# Mogis / 15 June 2021
 
 # Think of at least 5 places in the world you'd like to visit
 # Store the locations in a list. Make sure the list is not alphabetical

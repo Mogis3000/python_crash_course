@@ -1,5 +1,5 @@
 # Python Crash Course pg 56 - Chapter 4 For loops
-# Blake Barrow 15 June 2021
+# Mogis 15 June 2021
 
 animals_list = ['owls', 'penguins', 'harpy eagles']
 

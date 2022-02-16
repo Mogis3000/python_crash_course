@@ -1,5 +1,5 @@
 # Python Crash Course pg 61 - Working with Part of a list
-# Blake Barrow / 16 June 2021
+# Mogis / 16 June 2021
 
 #---------------------------------------------------------------------------------------
 # SLICING A LIST

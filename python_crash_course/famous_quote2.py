@@ -1,5 +1,5 @@
 # This code was used to help me understand how to use f-strings, string capitalization and formatting, along with whitespace stripping.
-# Blake Barrow / 10 June 2021
+# Mogis / 10 June 2021
 
 quote = '"Greatness is simple. In fact, to be simple is to be great." '
 author = "           ralph waldo emerson"

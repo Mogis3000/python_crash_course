@@ -1,5 +1,5 @@
 # Alien Invasion - Python Crash Course
-# Blake Barrow / 6 August 2021
+# Mogis / 6 August 2021
 
 import sys
 

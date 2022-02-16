@@ -1,5 +1,5 @@
 # Python Crash Course pg 60 - Chapter 4: Lists
-# Blake Barrow 16 June 2021
+# Mogis 16 June 2021
 
 '''
 # Exercise 4-3: Use a for loop to print the numbers from 1 to 20, inclusive

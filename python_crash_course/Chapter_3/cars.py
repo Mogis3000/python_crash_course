@@ -1,5 +1,5 @@
 # This code is for chapter 3 (Lists) of Python Crash Course - page 43
-# Blake Barrow / 14 June 2021
+# Mogis / 14 June 2021
 
 '''
 cars = ['bmw', 'audi', 'toyota', 'subaru']
